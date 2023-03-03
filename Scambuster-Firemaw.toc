@@ -5,6 +5,8 @@
 ## Version: 1.0.0
 ## DefaultState: enabled
 ## Dependencies: Scambuster
+## X-Curse-Project-ID: 833468
+
 
 LibStub.lua
 settings.lua
