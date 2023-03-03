@@ -8,54 +8,63 @@
 local _, t = ...
 
 t.case_table = {
-    [0] = {
-        -- These fields are always required. The case will be ignored by
-        -- Cutpurse without them.
-        name = "Thrall",  -- The last known name of the listed toon.
-        url = "https://discord.com/channels/some_discord/channel1",  -- A URL to the evidence against this player.
-
-        -- It is required to have ONE OF category or description, but 
-        -- including both is very helpful for users to tailor their alerts.
-        description = "Stole all the gold from a gdkp.",  -- A short verbal description of the case and offence.
-        category = "gdkp",  -- A category, should be one of "dungeon", "raid", "trade", "gdkp", "harassment"
-                            -- If the given category is none of these, it will be ignored.
-
-        -- These fields are optional.
-        guid = "Player-GDSAKG-53295G",  -- The GUID of the player. This is a more powerful identifier than the toon's name,
-                                        -- and persists through most types of reroll.
-        aliases = {"Warchief"},  -- a list of the previous aliases this player has gone under.
-        class = "WARRIOR",  -- The unit class, in allcaps english, no spaces, sometimes called the classFilename.
-                            -- See https://wowpedia.fandom.com/wiki/API_UnitClass for more info.
-
+   [0] = {
+        name = "Maximinao",
+        category = "raid",
+        description = "OS25 2D raid leader ninja'ed Fury of Five Flights",
+        url = "https://discord.com/channels/635426253414858752/910869036190023680/1071535452810657972",
+        class = "PALADIN"
     },
 
-    -- The below are all valid configurations.
     [1] = {
-        name = "Arthas",
-        guid = "Player-some-guid12",
-        category = "raid",
-        description = "Got a bit too upset at demons and had a strop.",
-        url = "https://discord.com/channels/some_discord/channel2",
-        class = "DEATHKNIGHT"
+        name = "Thanosbek",
+        category = "gdkp",
+        description = "Stole +130k From the GDKP he was leader of and left with it.",
+        url = "https://discord.com/channels/635426253414858752/910869036190023680/1071604435916173443",
     },
 
     [2] = {
-        name = "Sylvanas",
-        category = "harassment",
-        url = "https://some_other_url.com/war_of_the_thorns",
-    },
+        name = "Anabolics",
+        category = "raid",
+        description = "Ninjalooted OS102D loot. Removed his SR before locking it (noticed afterwards) and then left the raid when he got the loot.",
+        url = "https://discord.com/channels/635426253414858752/910869036190023680/1071868458209390712",
+     },
 
     [3] = {
-        name = "Gallywix",
-        category = "trade",
-        description = "Did not honor payment for boat travel services.",
-        url = "https://www.wowhead.com/guide/story-goblin-starting-area-lore",
-    },
-
-    [4] = {
-        name = "Swedger",
         category = "raid",
-        url = "https://some_other_url.com/evidence",
+		description = "Scamming/stealing loot, Ignoring user so they cant trade, then gives to his friend. both are same guild",
+		url = "https://discord.com/channels/635426253414858752/910869036190023680/1072547484313858068",
+		players = {
+			[0] = {
+				name = "Elunè ",
+				class = "PRIEST",
+				faction = "Alliance",
+			},
+			[1] = {
+				name = "Icylich",
+                class = "DEATHKNIGHT",
+				faction = "Alliance",
+			}
+		}
+	},
+     [4] = {
+        name = "Sigridkech",
+        category = "raid",
+        description = "VOA mount dropped, no HR on anything and took all the loot for himself and left",
+        url = "https://discord.com/channels/635426253414858752/910869036190023680/1072954052608004117",
+     },
+    
+     [5] = {
+        name = "Vendtta",
+        category = "raid",
+        description = "Had run on premise of BOE were GBID however stole the item away after bidding process and Ninja'ed",
+        url = "https://discord.com/channels/635426253414858752/910869036190023680/1073009877833748541",
+     },
+    
+    
+    
+    
+    
     }
 
 }
