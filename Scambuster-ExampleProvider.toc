@@ -1,7 +1,7 @@
 ## Interface: 30400
-## Title: Scambuster-ExampleProvider
-## Notes: Example Provider addon for Scambuster
-## Author: Swedge
+## Title: Scambuster-Firemaw
+## Notes: Firemaw Discord Provider addon for Scambuster
+## Author: HalfBakedDruid
 ## Version: 1.0.0
 ## DefaultState: enabled
 ## Dependencies: Scambuster
