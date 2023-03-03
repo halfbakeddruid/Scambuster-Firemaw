@@ -42,7 +42,7 @@ t.case_table = {
 			},
 			[1] = {
 				name = "Icylich",
-                class = "DEATHKNIGHT",
+                		class = "DEATHKNIGHT",
 				faction = "Alliance",
 			}
 		}
