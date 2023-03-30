@@ -322,9 +322,46 @@ t.case_table = {
       description = "Leaves after SR doesnt drop Cope more",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1087669789582962748",
  },
-
-    }
-
+ [44] = {
+      name = "Critbot",
+      category = "raid",
+      guid = "Player-4467-029E1F6",
+      description = "Changes gear to take gear from everything else bla bla bla",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1089307197814612040",
+},
+[45] = {
+      name = "Mehmanmk",
+      category = "raid",
+      aliases = {"Holydracõ","Holydraco","Realdemon"},
+      guid = "Player-4467-0286A5C9",
+      description = "Demon run masterclass and stealing loot for the boys Demon RL, Toxic gamer, Not a pumper",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1088106348069269544",
+},
+[46] = {
+   name = "Icedwolf",
+   category = "raid",
+   guid = "Player-4467-03AA587A",
+   description = "SR didnt drop so dipped from raid as RL trash Demon boss man",
+   url = "https://discord.com/channels/635426253414858752/910869036190023680/1090320462170562560",
+    },
+[47] = {
+      category = "raid",
+      description = "Scamming/stealing loot, extorting the raid, just actually demon brainlets who are scummy as hell",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1090728675743383683",
+      players = {
+         [0] = {
+            name = "Aerospark ",
+            guid = "Player-4467-02E19FA8",
+            faction = "Alliance",
+         },
+         [1] = {
+            name = "madrabbit",
+            guid = "Player-4467-02E242F6",
+            faction = "Alliance",
+         }
+      }
+   },
+}
 
 
 
