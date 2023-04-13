@@ -163,12 +163,23 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1069442479524429864",
    },
    [21] = {
-      name = "Ercuriön",
-      guid = "Player-4467-0288C942",
-      aliases = {"Leviathanx","Ærcuriön"},
       category = "raid",
       description = "Deducting players incorrectly not in line with the rest of the raid, attitude when called out",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1095395389806493697",
+      players = {
+         [0] = {
+            name = "Ercuriön",
+            aliases = {"Leviathanx"},
+            guid = "Player-4467-0288C942",
+            faction = "Alliance",
+         },
+         [1] = {
+            name = "Ærcuriön",
+            aliases = {"Leviathanx"},
+            guid = "Player-4467-037F2FD5",
+            faction = "Alliance",
+         }
+   }
    },
    [22] = {
       name = "Angelli",
@@ -359,10 +370,14 @@ t.case_table = {
          },
          [1] = {
             name = "Madrabbit",
-            aliases = {"Madhots"},
             guid = "Player-4467-02E242F6",
             faction = "Alliance",
-         }
+         },
+         [2] = {
+            name = "Madhots",
+            guid = "Player-4467-04258364",
+            faction = "Alliance",
+         },
       }
    },
    [48] = {
@@ -407,7 +422,7 @@ t.case_table = {
             name = "Discopriesto",
             guid = "Player-4467-04208ED6",
             faction = "Alliance",
-         }
+         },
       }
    },
    [53] = {
