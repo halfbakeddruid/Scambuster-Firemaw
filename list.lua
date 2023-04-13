@@ -165,6 +165,7 @@ t.case_table = {
    [21] = {
       name = "Leviathanx",
       guid = "Player-4467-0288C942",
+      aliases = "Ercuriön"
       category = "raid",
       description = "Deducting players incorrectly not in line with the rest of the raid, attitude when called out",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1095395389806493697",
@@ -459,6 +460,13 @@ t.case_table = {
       category = "raid",
       guid = "Player-4467-0248452C",
       description = "Corrupt Demon King of GDKPs avoid at all costs hes a big scam boi",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/995029429682180117",
+   },
+   [59] = {
+      name = "Tallais",
+      category = "raid",
+      guid = "Player-4467-026F5B78",
+      description = "Corrupt Demon Prince of GDKPs avoid at all costs hes a big scam boi",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/995029429682180117",
    },
 }
