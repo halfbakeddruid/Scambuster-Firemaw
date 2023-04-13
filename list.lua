@@ -59,6 +59,7 @@ t.case_table = {
    [6] = {
       name = "Neyza",
       guid = "Player-4467-036E46EE",
+      aliases = "Incrnated"
       category = "trade",
       description = "Took money for Arena boost did not provide service, refused to refund",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1081009517665468507",
@@ -162,11 +163,11 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1069442479524429864",
    },
    [21] = {
-      name = "Zacktihi",
-      guid = "Player-4467-03E66C72",
+      name = "Leviathanx",
+      guid = "Player-4467-0288C942",
       category = "raid",
-      description = "Funneling loot to his pal who didn't SR it",
-      url = "https://discord.com/channels/635426253414858752/910869036190023680/1068825179918188554",
+      description = "Deducting players incorrectly not in line with the rest of the raid, attitude when called out",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1095395389806493697",
    },
    [22] = {
       name = "Angelli",
@@ -231,122 +232,123 @@ t.case_table = {
       description = "Man takes offspec item off players who need for MS shocker why is this a blacklist",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1065939395619852288",
    },   
- [31] = {
+   [31] = {
       name = "Tjackbobbo",
       category = "raid",
       guid = "Player-4467-04169263",
       description = "Just a shit raid leader to be honest, bad with loot and everything really",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1083067097510334524",
- },
- [32] = {
+   },
+   [32] = {
       name = "Pupica",
       category = "raid",
       guid = "Player-4467-02CA4746",
       description = "Leaving after no SR drop he is literally a dying curse on the raid",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1083672981638754365",
- },
- [33] = {
+   },
+   [33] = {
       name = "Turkmenboy",
       category = "trade",
       guid = "Player-4467-02A02043",
       description = "Needs on everything, feed the dada",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1084070132403425340",
- },
- [34] = {
+    },
+   [34] = {
       name = "Idyd",
       category = "trade",
       guid = "Player-4467-041F740A",
       description = "Needs on everything, feed the dada",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1084146864024207470",
- },
- [35] = {
+   },
+   [35] = {
       name = "Heartlless",
       category = "raid",
       guid = "Player-4467-032550C",
       description = "Takes 120k pot, kicks everyone from discord and raid. Not based.",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1084374670813437962",
- },
- [36] = {
+   },
+   [36] = {
       name = "Plaguemonkey",
       category = "trade",
       guid = "Player-4467-036B26A0",
       description = "Quits when he doesnt get loot waaaaah",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1084957126297911449",
- },
- [37] = {
+   },
+   [37] = {
       name = "Whingeyfred",
       category = "trade",
       guid = "Player-4467-0425533",
       description = "Whingey by name Whingey by nature, leaves after no SR drop qq",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1084975390017200169",
- },
- [38] = {
+   },
+   [38] = {
       name = "Atamus",
       category = "raid",
       guid = "Player-4467-022898CE",
       description = "With Nemona being simps and egirls over sharing loot",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1085329464776478791",
- },
- [39] = {
+   },
+   [39] = {
       name = "Nemona",
       category = "raid",
       guid = "Player-4467-019B4416",
       description = "With Atamus being simps and egirls over sharing loot",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1085329464776478791",
- },
- [40] = {
+   },
+   [40] = {
       name = "Montanaw",
       category = "trade",
       guid = "Player-4467-02E2C043",
       description = "Ninja's Offspec loot from Heroics stole a nice shield apparently",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1086335280082075798",
- },
- [41] = {
+   },
+   [41] = {
       name = "Älison",
       category = "raid",
       guid = "Player-4467-03657D10",
       description = "Not rolling tier pieces and trying to sell after what a prick in an MSOS raid",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1087331196087832606",
- },
- [42] = {
+   },
+   [42] = {
       name = "Yakary",
       category = "raid",
       guid = "Player-4467-04282DAF",
       description = "Stole loot, didnt let people roll on items in SR raid and then Dced what a muppet",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1087530901682012232",
- },
- [43] = {
+   },
+   [43] = {
       name = "Mathoz",
       category = "raid",
       guid = "Player-4467-037D8854",
       description = "Leaves after SR doesnt drop Cope more",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1087669789582962748",
- },
- [44] = {
+   },
+   [44] = {
       name = "Critbot",
+      aliases = "Akite"
       category = "raid",
       guid = "Player-4467-029E1F6",
       description = "Changes gear to take gear from everything else bla bla bla",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1089307197814612040",
-},
-[45] = {
+   },
+   [45] = {
       name = "Mehmanmk",
       category = "raid",
       aliases = {"Holydracõ","Holydraco","Realdemon"},
       guid = "Player-4467-0286A5C9",
       description = "Demon run masterclass and stealing loot for the boys Demon RL, Toxic gamer, Not a pumper",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1088106348069269544",
-},
-[46] = {
+   },
+   [46] = {
    name = "Icedwolf",
    category = "raid",
    guid = "Player-4467-03AA587A",
    description = "SR didnt drop so dipped from raid as RL trash Demon boss man",
    url = "https://discord.com/channels/635426253414858752/910869036190023680/1090320462170562560",
-    },
-[47] = {
+   },
+   [47] = {
       category = "raid",
-      description = "Scamming/stealing loot, extorting the raid, just actually demon brainlets who are scummy as hell",
+      description = "Scamming/stealing loot, extorting the raid, demon GDKP leaders avoid",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1090728675743383683",
       players = {
          [0] = {
@@ -360,6 +362,104 @@ t.case_table = {
             faction = "Alliance",
          }
       }
+   },
+   [48] = {
+      name = "Happyboy",
+      category = "raid",
+      guid = "Player-4467-02CAEC09",
+      description = "Scams players out of cuts, forces Mixers to buy when they dont need items not a happy boy",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1012369202369265714",
+   },
+   [49] = {
+      name = "Yukö",
+      category = "raid",
+      guid = "Player-4467-03AA8B38",
+      description = "Ninja items then Alt F4",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1095821592992428142",
+   },   
+   [50] = {
+      name = "Hajx",
+      category = "Raid",
+      guid = "Player-4467-039BFC63",
+      description = "not looking at SR sheet as a RL and randomly giving away an item and demon lead",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1095821592992428142",
+   },
+   [51] = {
+      name = "Meralia",
+      category = "Raid",
+      guid = "Player-4467-03F386B5",
+      description = "Big 70k pot steal and teleports then logs because ofc he did",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1095706445917458432",
+   },
+   [52] = {
+      category = "raid",
+      description = "Scamming/stealing loot, Took players who they knew had low Gear and used it to invalidate rolls",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1095585359896793138",
+      players = {
+         [0] = {
+            name = "Dadwithbelt",
+            guid = "Player-4467-020AA375",
+            faction = "Alliance",
+         },
+         [1] = {
+            name = "Discopriesto",
+            guid = "Player-4467-04208ED6",
+            faction = "Alliance",
+         }
+      }
+   },
+   [53] = {
+      name = "Zoroasterr",
+      category = "raid",
+      aliases = "Wittche"
+      guid = "Player-4467-02E7A1D0",
+      description = "Took SR for himself simple ninja",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1095276760398053436",
+   },
+   [54] = {
+      name = "Sæxy",
+      category = "Raid",
+      guid = "Player-4467-0264CB69",
+      description = "makes raid, doesnt lead, doesnt do his own assigns, wipes the raid many times, fake AFK for Alganon as he cant get his SRs. Demon Lead",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1095124127544787025",
+   },
+   [55] = {
+      name = "Yuhace",
+      category = "Raid",
+      guid = "Joins raids, Fails Mechanics, Keeps wiping the boys and fake Dc's with the lads. Demon Player avoid",
+      description = "Player-4467-03563DDC",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1095116271588220968",
+   },
+   [56] = {
+      name = "Paradajzz",
+      category = "raid",
+      guid = "Player-4467-04266CEF",
+      description = "Quits raid after he gets his SR, no bueno",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1092922620934095030",
+   },
+   [57] = {
+      category = "raid",
+      description = "Giving loot to the boys with no rolls",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1092789655503650926",
+      players = {
+         [0] = {
+            name = "Papapalala",
+            guid = "Player-4467-03F0FD6D",
+            faction = "Alliance",
+         },
+         [1] = {
+            name = "Delphirosex",
+            guid = "Player-4467-042752B1",
+            faction = "Alliance",
+         }
+      }  
+   },
+   [58] = {
+      name = "Oceanboy",
+      category = "raid",
+      guid = "Player-4467-0248452C",
+      description = "Corrupt Demon King of GDKPs avoid at all costs hes a big scam boi",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/995029429682180117",
    },
 }
 
