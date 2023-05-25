@@ -531,12 +531,12 @@ t.case_table = {
             name = "Krislerr",
             guid = "Player-4467-02A8DFF2",
             faction = "Alliance",
-         }
+         },
          [2] = {
             name = "Storii",
             guid = "Player-4467-02C58362",
             faction = "Alliance",
-         }
+         },
          
       }  
    },
