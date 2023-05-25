@@ -245,7 +245,8 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1065939395619852288",
    },   
    [31] = {
-      name = "Tjackbobbo",
+      name = "Bobbeé",
+      aliases = {"Tjackbobbo"},
       category = "raid",
       guid = "Player-4467-04169263",
       description = "Just a shit raid leader to be honest, bad with loot and everything really",
@@ -464,11 +465,7 @@ t.case_table = {
             guid = "Player-4467-03F0FD6D",
             faction = "Alliance",
          },
-         [1] = {
-            name = "Delphirosex",
-            guid = "Player-4467-042752B1",
-            faction = "Alliance",
-         }
+
       }  
    },
    [58] = {
@@ -485,6 +482,142 @@ t.case_table = {
       description = "Corrupt Demon Prince of GDKPs avoid at all costs hes a big scam boi",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/995029429682180117",
    },
+   [60] = {
+      name = "Slinavko",
+      category = "raid",
+      guid = "Player-4467-042A02AB",
+      description = "Our Brother in Scam stole 140k pot and ran off",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1099719804258095165",
+   },
+   [61] = {
+      name = "Atreyju",
+      category = "raid",
+      guid = "Player-4467-0388F704",
+      description = "Took all the loot after 3 bosses, just took it all",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1102386716242890875",
+   },
+   [62] = {
+      name = "Mamacuchi",
+      category = "raid",
+      guid = "Player-4467-021CF2D0",
+      description = "Fixing the SR list during fights to scam the best outcome for the bois",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1103044639705010357",
+   },
+   [63] = {
+      name = "papapalala",
+      category = "raid",
+      guid = "Player-4467-03F0FD6D",
+      description = "Man taking items on top of his previous listing what a player also tried to pay 20k to be off list",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1103290538398056489",
+   },
+   [64] = {
+      name = "Schlagger",
+      category = "raid",
+      guid = "Player-4467-038A0C5B",
+      description = "Griefed Yog Kill by talking to make it Yogg 2 lights and messed up Algalon",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1104040403608543387",
+   },
+   [65] = {
+      category = "raid",
+      description = "Giving loot to the boys with after failed rolls",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1100541884797030500",
+      players = {
+         [0] = {
+            name = "Maticpala",
+            guid = "Player-4467-02A4366D",
+            faction = "Alliance",
+         },
+         [1] = {
+            name = "Krislerr",
+            guid = "Player-4467-02A8DFF2",
+            faction = "Alliance",
+         }
+         [2] = {
+            name = "Storii",
+            guid = "Player-4467-02C58362",
+            faction = "Alliance",
+         }
+         
+      }  
+   },
+   [66] = {
+      name = "Meôwtoxic",
+      category = "raid",
+      guid = "Player-4467-03B01602",
+      description = "Didnt Specify loot rules and took off with everything not Soft Ressed.",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1104138498379882526",
+   },
+   [67] = {
+      name = "Boostd",
+      category = "raid",
+      guid = "Player-4467-042737EC",
+      description = "Needing a tank sword as a mage and being cocky about it",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1104770385406332959",
+   },
+   [68] = {
+      name = "Natalyi",
+      category = "raid",
+      guid = "Player-4467-037422C4",
+      description = " 4SR > MS >OS, Heroic Key was sr'd by two people. Proceeds to do a GBID",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1105253642614886421",
+   },
+   [69] = {
+      name = "Safcio",
+      category = "raid",
+      guid = "Player-4467-04245FFD",
+      description = "Disconnected after his SRs didn't drop (immediately after Hodir)",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1105261468171108382",
+   },
+   [70] = {
+      name = "Shiromar",
+      category = "raid",
+      guid = "Player-4467-02992161",
+      description = "Doesnt follow own loot rules, and taking items.",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1105479881338400879",
+   },
+   [71] = {
+      name = "Yamamaudk",
+      category = "raid",
+      guid = "Player-4467-04279F8C",
+      description = "Bad leader in World Tour, steals pot after wipes.",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1107330364776661144",
+   },
+   [72] = {
+      name = "Mohsenhunts",
+      category = "raid",
+      guid = "Player-4467-02DF77E3",
+      description = "Getting the boys saved after being kicked form previous run to fuck up your day.",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1107611552443547709",
+   },
+   [73] = {
+      name = "Delaile",
+      category = "raid",
+      guid = "Player-4467-0288553D",
+      description = "Quit raid after wipes on Algalon and ghosted the raid.",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1107651722836451441",
+   },
+   [74] = {
+      name = "Brythegreat",
+      category = "raid",
+      guid = "Player-4467-02C91050",
+      description = "Quits raids and leaves them in the lurch after getting his items.",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1107719556417474611",
+   },
+   [75] = {
+      name = "Yatsoyama",
+      category = "raid",
+      guid = "Player-4467-04205640",
+      description = "Stole the big pumper cut from the raid.",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1109145179304235080",
+   },
+   [76] = {
+      name = "Slingdots",
+      category = "raid",
+      guid = "Player-4467-0422269B",
+      description = "The guy logs off instantly once sr doesn't drop his sr was flare.",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1111047877226156126",
+   },
+
 }
 
 
