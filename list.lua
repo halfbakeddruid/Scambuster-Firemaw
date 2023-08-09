@@ -135,11 +135,11 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1073280420742971595",
    },
    [17] = {
-      name = "Siberia",
-      guid = "Player-4467-01460F50",
-      category = "trade",
-      description = "Next is a test subject make sure he knows hes banned",
-      url = "https://discord.com/channels/635426253414858752/910869036190023680/1070708232508682280",
+      name = "Starsfall",
+      guid = "Player-4467-035658FB",
+      category = "raid",
+      description = "Took 100k pot after using fake bids to raise price",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1132630236480143461",
    },
    [18] = {
       name = "Greedyfox",
