@@ -17,7 +17,8 @@ t.case_table = {
       },
 
   [1] = {
-      name = "Thanosbek",
+      name = "Djester",
+      aliases = {"Thanosbek"},
       category = "gdkp",
       guid = "Player-4467-03717BAD",
       description = "Stole +130k From the GDKP he was leader of and left with it.",
@@ -57,9 +58,9 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1073009877833748541",
    },
    [6] = {
-      name = "Neyza",
+      name = "Alína",
       guid = "Player-4467-036E46EE",
-      aliases = {"Incrnated"},
+      aliases = {"Incrnated, Neyza"},
       category = "trade",
       description = "Took money for Arena boost did not provide service, refused to refund",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1081009517665468507",
@@ -100,7 +101,8 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1077525160246132737",
    },
    [12] = {
-      name = "Ironbash",
+      name = "Irontooth",
+      aliases = {"Ironbash"},
       guid = "Player-4467-02C5CA22",
       category = "raid",
       description = "Took items that were SR'ed by another member of the raid",
@@ -182,7 +184,8 @@ t.case_table = {
    }
    },
    [22] = {
-      name = "Angelli",
+      name = "Gàlàdriel",
+      aliases = {"Angelli"},
       guid = "Player-4467-02484569",
       category = "raid",
       description = "Member of the Disenchant everything club for cash",
@@ -260,7 +263,8 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1083672981638754365",
    },
    [33] = {
-      name = "Turkmenboy",
+      name = "Retaliators",
+      aliases = {"Turkmenboy"},
       category = "trade",
       guid = "Player-4467-02A02043",
       description = "Needs on everything, feed the dada",
@@ -323,7 +327,8 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1087331196087832606",
    },
    [42] = {
-      name = "Yakary",
+      name = "Ketaminx",
+      aliases = {"Yakary"},
       category = "raid",
       guid = "Player-4467-04282DAF",
       description = "Stole loot, didnt let people roll on items in SR raid and then Dced what a muppet",
@@ -345,9 +350,9 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1089307197814612040",
    },
    [45] = {
-      name = "Mehmanmk",
+      name = "Mehranmk",
       category = "raid",
-      aliases = {"Holydracõ","Holydraco","Realdemon"},
+      aliases = {"Holydracõ","Holydraco","Realdemon", "Mehmanmk"},
       guid = "Player-4467-0286A5C9",
       description = "Demon run masterclass and stealing loot for the boys Demon RL, Toxic gamer, Not a pumper",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1088106348069269544",
@@ -370,7 +375,8 @@ t.case_table = {
             faction = "Alliance",
          },
          [1] = {
-            name = "Madrabbit",
+            name = "Chatbot",
+            aliases = {"Madrabbit"},
             guid = "Player-4467-02E242F6",
             faction = "Alliance",
          },
@@ -382,14 +388,16 @@ t.case_table = {
       }
    },
    [48] = {
-      name = "Happyboy",
+      name = "Lightlorrd",
+      aliases = {"Happyboy"},
       category = "raid",
       guid = "Player-4467-02CAEC09",
       description = "Scams players out of cuts, forces Mixers to buy when they dont need items not a happy boy",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1012369202369265714",
    },
    [49] = {
-      name = "Yukö",
+      name = "Yukô",
+      aliases = {"Yukö"},
       category = "raid",
       guid = "Player-4467-03AA8B38",
       description = "Ninja items then Alt F4",
@@ -420,7 +428,8 @@ t.case_table = {
             faction = "Alliance",
          },
          [1] = {
-            name = "Discopriesto",
+            name = "Lilscamx",
+            aliases = {"Discopriesto"},
             guid = "Player-4467-04208ED6",
             faction = "Alliance",
          },
@@ -449,7 +458,8 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1095116271588220968",
    },
    [56] = {
-      name = "Paradajzz",
+      name = "Paradajz",
+      aliases = {"Paradajzz"}
       category = "raid",
       guid = "Player-4467-04266CEF",
       description = "Quits raid after he gets his SR, no bueno",
@@ -484,7 +494,8 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/995029429682180117",
    },
    [60] = {
-      name = "Slinavko",
+      name = "Kaitsy",
+      aliases = {"Slinavko"},
       category = "raid",
       guid = "Player-4467-042A02AB",
       description = "Our Brother in Scam stole 140k pot and ran off",
@@ -513,7 +524,8 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1103290538398056489",
    },
    [64] = {
-      name = "Schlagger",
+      name = "Smarth",
+      aliases = {"Schlagger"},
       category = "raid",
       guid = "Player-4467-038A0C5B",
       description = "Griefed Yog Kill by talking to make it Yogg 2 lights and messed up Algalon",
@@ -530,7 +542,8 @@ t.case_table = {
             faction = "Alliance",
          },
          [1] = {
-            name = "Krislerr",
+            name = "Krisw",
+            aliases = {"Krislerr"}
             guid = "Player-4467-02A8DFF2",
             faction = "Alliance",
          },
@@ -550,7 +563,8 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1104138498379882526",
    },
    [67] = {
-      name = "Boostd",
+      name = "Negativedmg",
+      aliases = {"Boostd"},
       category = "raid",
       guid = "Player-4467-042737EC",
       description = "Needing a tank sword as a mage and being cocky about it",
@@ -564,7 +578,8 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1105253642614886421",
    },
    [69] = {
-      name = "Safcio",
+      name = "Safcioo",
+      aliases = {"Safcio"},
       category = "raid",
       guid = "Player-4467-04245FFD",
       description = "Disconnected after his SRs didn't drop (immediately after Hodir)",
@@ -641,7 +656,8 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1113896829201961000",
    },
    [80] = {
-      name = "Brucealini",
+      name = "Dadyimsoaked",
+      aliases = {"Brucealini"},
       category = "raid",
       guid = "Player-4467-0432EE75",
       description = "Ninja loots items and steals all the purples.",
@@ -656,6 +672,7 @@ t.case_table = {
    },
    [82] = {
       name = "Bloodyydeath",
+      aliases = {"Kewkew"},
       category = "raid",
       guid = "Player-4467-02F6D9D1",
       description = "Demon leader, kicks people before pot is shared.",
@@ -697,7 +714,7 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1119956196221272104",
    },
    [88] = {
-      name = "kokä",
+      name = "Kokä",
       category = "raid",
       guid = "Player-4467-03F86772",
       description = "Fake DC after begging to roll his item he won and blamed his dc on a storm",
