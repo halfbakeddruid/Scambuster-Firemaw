@@ -850,6 +850,20 @@ t.case_table = {
       description = "Made Ulduar skip without note of HR on comet, once SR is locked he mentions that comet is HR",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1131720885334704280",
    },
+   [110] = {
+      name = "Izanagim",
+      category = "raid",
+      guid = "Player-4467-04355138",
+      description = "Absolute galaxy brained scammer.",
+      url = "⁠https://discord.com/channels/635426253414858752/910869036190023680/1127994113418076250",
+   },
+   [111] = {
+      name = "Eyesight",
+      category = "raid",
+      guid = "Player-4467-037C43FF",
+      description = "Ignoring SR list for a Deaths Verdict should have gone to specsavers.",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1128108612460494920",
+   },
 }
 
 
