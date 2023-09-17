@@ -1232,7 +1232,7 @@ t.case_table = {
          },
       }
    },
-   [154] = {
+   [155] = {
       name = "Vieral",
       guid = "Player-4467-02CDB346",
       category = "Raid",
