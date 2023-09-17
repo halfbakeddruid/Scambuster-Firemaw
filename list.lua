@@ -881,6 +881,212 @@ t.case_table = {
       description = "Ignoring SR list for a Deaths Verdict should have gone to specsavers.",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1128108612460494920",
    },
+   [112] = {
+      name = "Donbeton",
+      category = "raid",
+      guid = "Player-4467-02563AEC",
+      description = "Leaving TOGC run after SR did not drop",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1131812739304665098",
+   },
+   [113] = {
+      name = "Yaygara",
+      category = "raid",
+      guid = "Player-4467-03712034",
+      description = "Decided to not raidlead raid he organized, made random person raidlead, looted items to wrong person",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1132334439301656657",
+   },
+   [114] = {
+      name = "Starsfall",
+      category = "raid",
+      guid = "Player-4467-035658FB",
+      description = "Raidlead TOGC GDKP, ninjad pot and went offline",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1132630236480143461",
+   },
+   [115] = {
+      name = "Prìvatejet",
+      category = "raid",
+      guid = "Player-4467-043F581F",
+      description = "Ninja'd Onyxia GBID head",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1132677195463143555",
+   },
+   [116] = {
+      name = "Januaryjones",
+      category = "raid",
+      guid = "Player-4467-0429DBE8",
+      description = "Asks raidleader to get his SR mid run, then leaves after first wipe",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1132987108655640636",
+   },
+   [117] = {
+      name = "Sãra",
+      category = "raid",
+      guid = "Player-4467-043B4FE7",
+      description = "Fake DCs in 10m Ulduar run after his item doesn't drop",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1133034676114698372",
+   },
+   [118] = {
+      name = "Tàli",
+      category = "raid",
+      guid = "Player-4467-030198F2",
+      description = "Ninja's all items which dropped in 25m TOGC 5 minutes before server shutdown",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1134049498235142174",
+   },
+   [119] = {
+      name = "Coquinå",
+      category = "raid",
+      guid = "Player-4467-02DDA956",
+      description = "Led GDKP doesn't bid on bracers that were upgrade for him, proceeds to equip them after raid",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1134093272512479253",
+   },
+   [120] = {
+      name = "Pistolskyder",
+      category = "raid",
+      guid = "Player-4467-0435A5FC",
+      description = "Ignored SR and gave item to person that rolled 16",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1134584456242544811",
+   },
+   [121] = {
+      name = "Ændrèwstorm",
+      category = "raid",
+      guid =  "Player-4467-03E13CE9",
+      description = "DCD ulduar 10m run on Vezax because his SR'd items did not drop",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1135138204002029688",
+   },
+   [122] = {
+      category = "raid",
+      description = "Raidleader ignored roll, gave it to mage, mage teleported out instantly and left raid, Memezaur = Ninja, Smutthels = Incompetent RL",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1135350882955960360",
+      players = {
+         [0] = {
+            name = "Memezaur",
+            guid = "Player-4467-02919D90",
+            faction = "Alliance",
+         },
+         [1] = {
+            name = "Smutthels",
+            guid = "Player-4467-0437E6A8",
+            faction = "Alliance",
+         },
+      }
+   },
+   [123] = {
+      name = "iivii",
+      category = "raid",
+      guid =  "Player-4467-043CE4A0",
+      description = "Stole GDKP cut after getting called out for not bidding on massive upgrade for himself",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1136368421374808275",
+   },
+   [124] = {
+      name = "Lucasthebest",
+      category = "raid",
+      guid =  "Player-4467-02FFAED9",
+      description = "Left raid after SR did not drop",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1136925704693489684",
+   },
+   [125] = {
+      category = "dungeon",
+      description = "Xynn, went afk after skipping and proceeds insulting individual they kicked, Akané pulls boss while Xynn is afk bugging out boss",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1137482664752988248",
+      players = {
+         [0] = {
+            name = "Xynn",
+            guid = "Player-4467-043DE915",
+            faction = "Alliance",
+         },
+         [1] = {
+            name = "Akané",
+            guid = "Player-4467-04405FFF",
+            faction = "Alliance",
+         },
+      }
+   },
+   [126] = {
+      name = "Néu",
+      category = "raid",
+      guid =  "Player-4467-043f7b3b",
+      description = "Triple SR on Comet, Algalon first boss, leaves when item does not drop",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1137843335734775870",
+   },
+   [127] = {
+      name = "Líukang",
+      aliases = {"Liukang"},
+      guid = "Player-4467-02DDBA6E",
+      category = "raid",
+      description = "Edited SR after onyxia sword did not drop, proceeds to ninja head after, admitted to multiple ninja loots in the past",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1138096693036990524",
+   },
+   [128] = {
+      name = "Zevelina",
+      guid = "Player-4467-03729C1C",
+      category = "raid",
+      description = "Ninja'd Ret pvp gloves in VOA run without rolling, claiming they never dropped",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1138466012044468315",
+   },
+   [129] = {
+      name = "Sickblink",
+      guid = "Player-4467-0431D472",
+      category = "raid",
+      description = "Joined 10man togc, reserved items from first 2, after neither items dropped he left raid and deleted SR",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1138767195913080863",
+   },
+   [130] = {
+      name = "Hydroculturx",
+      guid = "Player-4467-02BA277D",
+      category = "raid",
+      description = "Bidding up on item with no intent of buying it, then refusing to pay gold when he won item",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1138818848867491850",
+   },
+   [131] = {
+      name = "bingbingwahu",
+      guid = "Player-4467-03B11154",
+      category = "raid",
+      description = "Double SR on Planestalker signet, left raid when item did not drop, claiming he needs restart and never returned",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1138831816279736360",
+   },
+   [132] = {
+      name = "Brappe",
+      guid = "Player-4467-044102B6",
+      category = "raid",
+      description = "Ninja'd loot in ony 25, needed on everything and left",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1139687651511894057",
+   },
+   [133] = {
+      category = "raid",
+      description = "Alina: Ignored SR to give Axe to friend (Hollymólly), Hollymólly: Instantly equipped the axe, knowing he was ninjaing it",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1140042334436855860",
+      players = {
+         [0] = {
+            name = "Rollsrogue",
+            aliases = {"Alína"},
+            guid = "Player-4467-042D6FEA",
+            faction = "Alliance",
+         },
+         [1] = {
+            name = "Hollymólly",
+            guid = "Player-4467-04315759",
+            faction = "Alliance",
+         },
+         [2] = {
+            name = "Alína",
+            aliases = {"Rollsrogue"},
+            guid = "Player-4467-036E46EE",
+            faction = "Alliance"
+         }
+      }
+   },
+   [134] = {
+      name = "Youngmerle ",
+      guid = "Player-4467-042EADB2",
+      category = "raid",
+      description = "Raidleader accidentally traded wrong cut to him, he proceeds to ignore the RL and not give back the 61000 gold",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1140077496558166126",
+   },
+   [135] = {
+      name = "Waýne",
+      guid = "Player-4467-0379FC7D",
+      category = "raid",
+      description = "Joined Ulduar 25m SR, left after his SR bosses without saying anything",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1140608791881195560",
+   },
 }
 
 
