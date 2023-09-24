@@ -384,7 +384,7 @@ t.case_table = {
             name = "Madhots",
             guid = "Player-4467-04258364",
             faction = "Alliance",
-         },
+         }
       }
    },
    [48] = {
@@ -405,14 +405,14 @@ t.case_table = {
    },   
    [50] = {
       name = "Hajx",
-      category = "Raid",
+      category = "raid",
       guid = "Player-4467-039BFC63",
       description = "not looking at SR sheet as a RL and randomly giving away an item and demon lead",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1095821592992428142",
    },
    [51] = {
       name = "Meralia",
-      category = "Raid",
+      category = "raid",
       guid = "Player-4467-03F386B5",
       description = "Big 70k pot steal and teleports then logs because ofc he did",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1095706445917458432",
@@ -432,7 +432,7 @@ t.case_table = {
             aliases = {"Discopriesto"},
             guid = "Player-4467-04208ED6",
             faction = "Alliance",
-         },
+         }
       }
    },
    [53] = {
@@ -445,21 +445,21 @@ t.case_table = {
    },
    [54] = {
       name = "Sæxy",
-      category = "Raid",
+      category = "raid",
       guid = "Player-4467-0264CB69",
       description = "makes raid, doesnt lead, doesnt do his own assigns, wipes the raid many times, fake AFK for Alganon as he cant get his SRs. Demon Lead",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1095124127544787025",
    },
    [55] = {
       name = "Yuhace",
-      category = "Raid",
+      category = "raid",
       guid = "Joins raids, Fails Mechanics, Keeps wiping the boys and fake Dc's with the lads. Demon Player avoid",
       description = "Player-4467-03563DDC",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1095116271588220968",
    },
    [56] = {
       name = "Paradajz",
-      aliases = {"Paradajzz"}
+      aliases = {"Paradajzz"},
       category = "raid",
       guid = "Player-4467-04266CEF",
       description = "Quits raid after he gets his SR, no bueno",
@@ -475,8 +475,7 @@ t.case_table = {
             aliases = {"Papapalala"},
             guid = "Player-4467-03F0FD6D",
             faction = "Alliance",
-         },
-
+         }
       }  
    },
    [58] = {
@@ -543,7 +542,7 @@ t.case_table = {
          },
          [1] = {
             name = "Krisw",
-            aliases = {"Krislerr"}
+            aliases = {"Krislerr"},
             guid = "Player-4467-02A8DFF2",
             faction = "Alliance",
          },
@@ -551,7 +550,7 @@ t.case_table = {
             name = "Storii",
             guid = "Player-4467-02C58362",
             faction = "Alliance",
-         },
+         }
          
       }  
    },
@@ -899,7 +898,7 @@ t.case_table = {
       name = "Starsfall",
       category = "raid",
       guid = "Player-4467-035658FB",
-      description = "Raidlead TOGC GDKP, ninjad pot and went offline",
+      description = "raidlead TOGC GDKP, ninjad pot and went offline",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1132630236480143461",
    },
    [115] = {
@@ -919,7 +918,7 @@ t.case_table = {
    [117] = {
       name = "Sãra",
       category = "raid",
-      guid = "Player-4467-043B4FE7",
+      guid = "Player-4467-043B4FE7", 
       description = "Fake DCs in 10m Ulduar run after his item doesn't drop",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1133034676114698372",
    },
@@ -953,7 +952,7 @@ t.case_table = {
    },
    [122] = {
       category = "raid",
-      description = "Raidleader ignored roll, gave it to mage, mage teleported out instantly and left raid, Memezaur = Ninja, Smutthels = Incompetent RL",
+      description = "raidleader ignored roll, gave it to mage, mage teleported out instantly and left raid, Memezaur = Ninja, Smutthels = Incompetent RL",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1135350882955960360",
       players = {
          [0] = {
@@ -965,7 +964,7 @@ t.case_table = {
             name = "Smutthels",
             guid = "Player-4467-0437E6A8",
             faction = "Alliance",
-         },
+         }
       }
    },
    [123] = {
@@ -996,7 +995,7 @@ t.case_table = {
             name = "Akané",
             guid = "Player-4467-04405FFF",
             faction = "Alliance",
-         },
+         }
       }
    },
    [126] = {
@@ -1077,7 +1076,7 @@ t.case_table = {
       name = "Youngmerle ",
       guid = "Player-4467-042EADB2",
       category = "raid",
-      description = "Raidleader accidentally traded wrong cut to him, he proceeds to ignore the RL and not give back the 61000 gold",
+      description = "raidleader accidentally traded wrong cut to him, he proceeds to ignore the RL and not give back the 61000 gold",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1140077496558166126",
    },
    [135] = {
@@ -1090,84 +1089,84 @@ t.case_table = {
    [136] = {
       name = "Zôe",
       guid = "Player-4467-043045DB",
-      category = "Dungeon",
+      category = "dungeon`",
       description = "Needing all items, even that they cant use",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1141025577365676103",
    },
    [137] = {
       name = "Archeer",
       guid = "Player-4467-02C2A5C8",
-      category = "Raid",
-      description = "Raid lead didn't give item to the roll winner",
+      category = "raid",
+      description = "raid lead didn't give item to the roll winner",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1141418861195968522",
    },
    [138] = {
       name = "Ratedpala",
       guid = "Player-4467-04394DDB",
-      category = "Raid",
+      category = "raid",
       description = "Gives ony sword to friend warlock who equips it instantly on purpose, not rolling it out to the other SR holder",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1141426772588638268",
    },
    [139] = {
       name = "Dylanmarlon",
       guid = "Player-4467-043C50D4",
-      category = "Raid",
+      category = "raid",
       description = "Got replaced for lying about gear, ninja pulled boss leading into the raid starting with 49/50 attempts",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1141601075275780096",
    },
    [140] = {
       name = "Iwaka",
       guid = "Player-4467-028EB23C",
-      category = "Raid",
+      category = "raid",
       description = "Left 10 man Togc after 1 wipe on anub at 1%, run was not advertised as 50/50",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1142382120870891602",
    },
    [141] = {
       name = "Ndrago",
       guid = "Player-4467-032C0133",
-      category = "Dungeon",
+      category = "dungeon",
       description = "Protection paladin stealing DPS trinket for his friend, even though his friend does not need it",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1142958467167047721",
    },
    [142] = {
       name = "Vinisius",
       guid = "Player-4467-02EDDC89",
-      category = "Raid",
+      category = "raid",
       description = "Joined TOGC run and died on first boss on purpose, got kicked from group and proceeded to ninja pull",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1142962285602680863",
    },
    [143] = {
       name = "Tldzkek",
       guid = "Player-4467-043ACAE2",
-      category = "Raid",
+      category = "raid",
       description = "Using racist slurs because he got deducted in GDKP",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1144203823540359178",
    },
    [144] = {
       name = "Offlinemage",
       guid = "Player-4467-034C4257",
-      category = "Raid",
+      category = "raid",
       description = "Leecher, didn't bid for obvious upgrades while being in naxx and ulduar 10man gear",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1144387489516236950",
    },
    [145] = {
       name = "Zsozsoshaman",
       guid = "Player-4467-04261CA8",
-      category = "Raid",
+      category = "raid",
       description = "Triple SR on Solace, left when it didn't drop",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1144611162915360788",
    },
    [146] = {
       name = "Bozorge",
       guid = "Player-4467-04258CD2",
-      category = "Dungeon",
+      category = "dungeon",
       description = "Needed on ToC tank trinket, tried to sell the trinket after winning it to the other person who needed it",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1146486200262209536",
    },
    [147] = {
       name = "Leonajdas",
       guid = "Player-4467-038D497A",
-      category = "Raid",
+      category = "raid",
       description = "Didn't roll out loot after it dropped, just to keep it for himself",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1148652839112016012",
    },
@@ -1175,7 +1174,7 @@ t.case_table = {
       name = "Cleavergodx",
       aliases = {"Lecan", "Namtie"},
       guid = "Player-4467-04224E1B",
-      category = "Raid",
+      category = "raid",
       description = "Leaving raid before it was done because his SR did not drop",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1148653079936372906",
    },
@@ -1183,40 +1182,40 @@ t.case_table = {
       name = "Ulia ",
       aliases = {"Noyana"},
       guid = "Player-4467-02D15D35",
-      category = "Raid",
+      category = "raid",
       description = "Falsely deducts people for not bidding on items they don't need",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1150103074539573359",
    },
    [150] = {
       name = "Shãqüíêr",
       guid = "Player-4467-036D3788",
-      category = "Raid",
+      category = "raid",
       description = "Griefing 50/50 TOGC intentionally",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1150679684632281131",
    },
    [151] = {
       name = "Mahlin",
       guid = "Player-4467-043F94BE",
-      category = "Raid",
+      category = "raid",
       description = "Voting to get 2 buyers kicked out of group to make pot bigger, after they already bought items",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1150780747469291550",
    },
    [152] = {
       name = "Banapitu",
       guid = "Player-4467-02C72488",
-      category = "Raid",
+      category = "raid",
       description = "Scammed 230k GDKP pot",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1151256790990868530",
    },
    [153] = {
       name = "Reckonwarro",
       guid = "Player-4467-02C7B0EC",
-      category = "Raid",
+      category = "raid",
       description = "Ninja loots gear to other people without rolling them out, because of the items being 'prebis'",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1151697248481194025",
    },
    [154] = {
-      category = "Dungeon",
+      category = "dungeon",
       description = "Bundasch: Needing on items they cannot use to give them to their friend, Matyas: Ninjalooting OS gear when MS tank needed trinket",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1152287093008105555",
       players = {
@@ -1229,13 +1228,13 @@ t.case_table = {
             name = "Bundasch",
             guid = "Player-4467-04451192",
             faction = "Alliance"
-         },
+         }
       }
    },
    [155] = {
       name = "Vieral",
       guid = "Player-4467-02CDB346",
-      category = "Raid",
+      category = "raid",
       description = "Logged out after rolling out 3 items after wiping to anub and kept the rest of the loot",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1152535022981611590",
    },
