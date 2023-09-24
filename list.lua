@@ -1239,6 +1239,55 @@ t.case_table = {
       description = "Logged out after rolling out 3 items after wiping to anub and kept the rest of the loot",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1152535022981611590",
    },
+   [156] = {
+      name = "Holysheeshz",
+      guid = "Player-4467-02FBBF03",
+      category = "Raid",
+      description = "Griefed 50/50 run after he got kicked",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1153967237221326888",
+   },
+   [157] = {
+      name = "Brurshan",
+      guid = "Player-4467-02C4BC45",
+      category = "Raid",
+      description = "Ninja VoA mount without HR'ing it",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1154022645147369503",
+   },
+   [158] = {
+      name = "Buntenwrath",
+      guid = "Player-4467-04262DAB",
+      category = "Raid",
+      description = "Joins 50/50 run, his SR doesn't drop insta leaves screwing everyones ID's",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1154406004654616749",
+   },
+   [160] = {
+      name = "Butterflay",
+      guid = "Player-4467-040D955A",
+      category = "Raid",
+      description = "Removing people for leeching when they don't bid at end of tier for 9 dps increase genuine clown",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1154921097255464980",
+   },
+   [161] = {
+      name = "Aeonz",
+      guid = "Player-4467-044613B4",
+      category = "Dungeon",
+      description = "Kicks people from brewfest event after them redeeming the quest to spawn boss",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1155085773251551232",
+   },
+   [162] = {
+      name = "Dabepala",
+      guid = "Player-4467-043FE2E6",
+      category = "Dungeon",
+      description = "Didn't summon boss, leaves before he has to summon so he can join another group after",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1155137081832652811",
+   },
+   [163] = {
+      name = "Thename",
+      guid = "Player-4467-02CBEF3B",
+      category = "Trade",
+      description = "Scams people out of their gold after losing deathroll",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1155335924587167815",
+   },
 }
 
 
