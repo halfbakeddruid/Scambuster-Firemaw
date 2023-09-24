@@ -227,11 +227,11 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1067036595884150814",
    },
    [28] = {
-      name = "Dollargun",
-      guid = "Player-4467-02C4FED8",
+      name = "Irex",
+      guid = "Player-4467-02FC660D",
       category = "raid",
-      description = "Quits when he loses rolls what a loser.",
-      url = "https://discord.com/channels/635426253414858752/910869036190023680/1066148186714017893",
+      description = "Kicked everyone after the raid was done ran off with the pot yahoooo.",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1155623654210678945",
    },
    [29] = {
       name = "Tyrante",
