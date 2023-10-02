@@ -1267,25 +1267,131 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1154921097255464980",
    },
    [161] = {
-      name = "Aeonz",
-      guid = "Player-4467-044613B4",
-      category = "dungeon",
-      description = "Kicks people from brewfest event after them redeeming the quest to spawn boss",
-      url = "https://discord.com/channels/635426253414858752/910869036190023680/1155085773251551232",
-   },
-   [162] = {
       name = "Dabepala",
       guid = "Player-4467-043FE2E6",
       category = "dungeon",
       description = "Didn't summon boss, leaves before he has to summon so he can join another group after",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1155137081832652811",
    },
-   [163] = {
+   [162] = {
       name = "Thename",
       guid = "Player-4467-02CBEF3B",
       category = "trade",
       description = "Scams people out of their gold after losing deathroll",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1155335924587167815",
+   },
+   [163] = {
+      name = "Irex",
+      guid = "Player-4467-02FC660D",
+      category = "raid",
+      description = "Kicked all after 4/5 GDKP was done and left with pot",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1155623654210678945",
+   },
+   [164] = {
+      category = "raid",
+      description = "Scamming regalia, repeated harassment and doxxing",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1155845340843495554",
+      players = {
+         [0] = {
+         name = "Wisip",
+         guid = "Player-4467-043D14FF",
+         faction = "alliance",
+         },
+         [1] = {
+         name = "Brappe",
+         guid = "Player-4467-044102B6",
+         faction = "alliance",
+         }
+      }
+   },
+   [165] = {
+      name = "Derakht",
+      guid = "Player-4467-0311C59F",
+      category = "dungeon",
+      description = "Needing all items in dungeons",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1155971554119790784",
+   },
+   [166] = {
+      name = "Crixüs",
+      guid = "Player-4467-02E3E12A",
+      category = "raid",
+      description = "Ninja looted mount and satchel in OS 3D",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1156560584381313075",
+   },
+   [167] = {
+      name = "Pasulj",
+      guid = "Player-4467-02AA7FC2",
+      category = "raid",
+      description = "Ninja's HR'd item ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1156581536112582677",
+   },
+   [168] = {
+      category = "raid",
+      description = "Needing on everything in OS25 3D",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1157421516313596034",
+      players = {
+         [0] = {
+         name = "Tetsu",
+         guid = "Player-4467-043FFC0F",
+         faction = "alliance",
+         },
+         [1] = {
+         name = "Kàlyen",
+         guid = "Player-4467-04269947",
+         faction = "alliance",
+         }
+      }
+   },
+   [169] = {
+      name = "Pahy",
+      aliases = {"Pahyz"},
+      guid = "Player-4467-0433A577",
+      category = "raid",
+      description = "Left raid after SR didn't drop in ToGC25",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1157702401311121489",
+   },
+   [170] = {
+      name = "Hamered",
+      guid = "Player-4467-043B1745",
+      category = "raid",
+      description = "Went offline after loot didn't drop",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1157921391132287017",
+   },
+   [171] = {
+      category = "raid",
+      description = "Ninjapulling over and over again on purpose, being annoying twats",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1157986117686136947",
+      players = {
+         [0] = {
+         name = "Geraltdemon",
+         guid = "Player-4467-0441A3E6",
+         faction = "alliance",
+         },
+         [1] = {
+         name = "Blakee",
+         guid = "Player-4467-044E6AED",
+         faction = "alliance",
+         },
+         [2] = {
+         name = "Bigbangoog",
+         guid = "Player-4467-02E362AC",
+         faction = "alliance",
+         }
+      }
+   },
+   [172] = {
+      name = "Mazingax",
+      guid = "Player-4467-0434397",
+      category = "raid",
+      description = "Left raid after loot didn't drop",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1158130851628978267",
+   },
+   [173] = {
+      name = "Yaqii",
+      guid = "Player-4467-032675FA",
+      category = "raid",
+      description = "Ninjalooting softressed item as RL",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1158437564747882537",
    },
 }
 
