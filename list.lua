@@ -1215,21 +1215,11 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1151697248481194025",
    },
    [154] = {
-      category = "dungeon",
-      description = "Bundasch: Needing on items they cannot use to give them to their friend, Matyas: Ninjalooting OS gear when MS tank needed trinket",
-      url = "https://discord.com/channels/635426253414858752/910869036190023680/1152287093008105555",
-      players = {
-         [0] = {
-            name = "Matyas",
-            guid = "Player-4467-0444E29F",
-            faction = "Alliance",
-         },
-         [1] = {
-            name = "Bundasch",
-            guid = "Player-4467-04451192",
-            faction = "Alliance"
-         }
-      }
+      name = "Yaqii",
+      guid = "Player-4467-032675FA",
+      category = "raid",
+      description = "Ninjalooting softressed item as RL",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1158437564747882537",
    },
    [155] = {
       name = "Vieral",
@@ -1386,13 +1376,7 @@ t.case_table = {
       description = "Left raid after loot didn't drop",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1158130851628978267",
    },
-   [173] = {
-      name = "Yaqii",
-      guid = "Player-4467-032675FA",
-      category = "raid",
-      description = "Ninjalooting softressed item as RL",
-      url = "https://discord.com/channels/635426253414858752/910869036190023680/1158437564747882537",
-   },
+   
 }
 
 
