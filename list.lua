@@ -1376,7 +1376,58 @@ t.case_table = {
       description = "Left raid after loot didn't drop",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1158130851628978267",
    },
-   
+   [173] = {
+      name = "Kersur",
+      guid = "Player-4467-02ECA793",
+      category = "raid",
+      description = "Lying in advertisement, kicking players for leeching when they weren't",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1159757295765442620",
+   },
+   [174] = {
+      category = "raid",
+      description = "Leaving after causing a wipe in ToGC 10hc",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1159975096681779281",
+      players = {
+         [0] = {
+            name = "Moppaa",
+            guid = "Player-4467-02AA2BD1",
+            faction = "alliance",
+         },
+         [1] = {
+            name = "Uryen",
+            guid = "Player-4467-041A6487",
+            faction = "alliance",
+         }
+      }
+   },
+   [175] = {
+      name = "Classicmvp",
+      guid = "Player-4467-0431906DE",
+      category = "raid",
+      description = "Left once 50/50 was no longer possible, despite not soft reserving the cloak.",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1160013307986587679",
+   },
+   [176] = {
+      name = "Prøject",
+      guid = "Player-4467-029BD42F",
+      category = "raid",
+      description = "Changing SR when coming to anub, after already having locked the raid",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1160512380212617247",
+   },
+   [177] = {
+      name = "Janoheal",
+      guid = "Player-4467-043D3EDF",
+      category = "raid",
+      description = "Ninjapulled anub while discussion about SR rules was going on failing 50/50",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1160713605986140160",
+   },
+   [178] = {
+      name = "Dumcel",
+      guid = "Player-4467-02FC660D",
+      category = "raid",
+      description = "Scamming raid pot, repeat offender, fucking idiot, stop falling for his fucking gdkps",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1161635301702254712",
+   },
 }
 
 
