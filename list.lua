@@ -1428,6 +1428,51 @@ t.case_table = {
       description = "Scamming raid pot, repeat offender, fucking idiot, stop falling for his fucking gdkps",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1161635301702254712",
    },
+   [179] = {
+      name = "Tramtroll",
+      guid = "Player-4467-041FFA49",
+      category = "dungeon",
+      description = "Full need on all items",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1162006974607663194",
+   },
+   [180] = {
+      category = "raid",
+      description = "Ninja in togc 25",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1162794328305967304",
+      players = {
+         [0] = {
+            name = "Zulgamussy",
+            guid = "Player-4467-045135F0",
+            faction = "alliance",
+         },
+         [1] = {
+            name = "Fedepatter",
+            guid = "Player-4467-02BD9DD9",
+            faction = "alliance",
+         },
+      }
+   },
+   [181] = {
+      name = "Felbain",
+      guid = "Player-4467-0450F0B0",
+      category = "trade",
+      description = "crafting item without telling what the tip is and comes in forcing a 1k tip",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1162895606109442171",
+   },
+   [182] = {
+      name = "Wilddk",
+      guid = "Player-4467-037227E9",
+      category = "raid",
+      description = "Didn't let people roll for MS and ninjad item to different person",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1162945864235483297",
+   },
+   [183] = {
+      name = "Mökö",
+      guid = "Player-4467-02CCC4DF",
+      category = "raid",
+      description = "Ninja fake HR VoA mount",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1163124913188642836",
+   },
 }
 
 
