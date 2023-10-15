@@ -1473,6 +1473,13 @@ t.case_table = {
       description = "Ninja fake HR VoA mount",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1163124913188642836",
    },
+   [184] = {
+      name = "Aërowen",
+      guid = "Player-4467-037282D7",
+      category = "raid",
+      description = "Fucking retail andy doesnt think druids wear cloth, ignoring rolls and giving loot away",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1163242782639534150",
+   },
 }
 
 
