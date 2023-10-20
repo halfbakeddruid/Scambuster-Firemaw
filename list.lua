@@ -1492,6 +1492,7 @@ t.case_table = {
       guid = "Player-4467-04401F9C",
       category = "raid",
       description = "Hardressing BoE's in Rep runs then crying about it when people call him out like a baby",
+      url = "https://discord.com/channels/635426253414858752/883028908134502421/1164908262823579698"
    },
 }
 
