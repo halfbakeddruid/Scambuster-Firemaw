@@ -1487,7 +1487,7 @@ t.case_table = {
       description = "Leaving raid without warning on prog run",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1163491455092932738",
    },
-   [185] = {
+   [186] = {
       name = "Purpletizz",
       guid = "Player-4467-04401F9C",
       category = "raid",
