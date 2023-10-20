@@ -1481,14 +1481,19 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1163242782639534150",
    },
    [185] = {
+      name = "Netley",
+      guid = "Player-4467-022D4B1",
+      category = "raid",
+      description = "Leaving raid without warning on prog run",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1163491455092932738",
+   },
+   [185] = {
       name = "Purpletizz",
       guid = "Player-4467-04401F9C",
       category = "raid",
       description = "Hardressing BoE's in Rep runs then crying about it when people call him out like a baby",
    },
 }
-
-
 
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
