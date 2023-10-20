@@ -1480,6 +1480,12 @@ t.case_table = {
       description = "Fucking retail andy doesnt think druids wear cloth, ignoring rolls and giving loot away",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1163242782639534150",
    },
+   [185] = {
+      name = "Purpletizz",
+      guid = "Player-4467-04401F9C",
+      category = "raid",
+      description = "Hardressing BoE's in Rep runs then crying about it when people call him out like a baby",
+   },
 }
 
 
