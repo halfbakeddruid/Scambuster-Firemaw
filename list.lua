@@ -384,13 +384,13 @@ t.case_table = {
             name = "Madhots",
             guid = "Player-4467-04258364",
             faction = "Alliance",
-         }
+         },
          [3] = {
-            name = "Daddyman"
-            guid = "Player-4467-043A7F9D"
+            name = "Daddyman",
+            guid = "Player-4467-043A7F9D",
             faction = "Alliance",
-         }
-      }
+         },
+      },
    },
    [48] = {
       name = "Lightlorrd",
