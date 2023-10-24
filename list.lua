@@ -385,6 +385,11 @@ t.case_table = {
             guid = "Player-4467-04258364",
             faction = "Alliance",
          }
+         [3] = {
+            name = "Daddyman"
+            guid = "Player-4467-043A7F9D"
+            faction = "Alliance",
+         }
       }
    },
    [48] = {
@@ -1484,7 +1489,7 @@ t.case_table = {
       name = "Netley",
       guid = "Player-4467-022D4B1",
       category = "raid",
-      description = "Leaving raid without warning on prog run",
+      description = "Leaving raid without warning on prog run, ty! sorry, gtg",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1163491455092932738",
    },
    [186] = {
@@ -1494,8 +1499,78 @@ t.case_table = {
       description = "Hardressing BoE's in Rep runs then crying about it when people call him out like a baby",
       url = "https://discord.com/channels/635426253414858752/883028908134502421/1164908262823579698"
    },
+   [187] = {
+      name = "Holydiana",
+      guid = "Player-4467-043B530A",
+      category = "raid",
+      description = "Sells shards for X amount then trades them to the Buyer for under X amount, no remorse lying about repayments etc avoid at all costs",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1166392269604143114"
+   },
+   [188] = {
+      name = "Embrujaoh",
+      guid = "Player-4467-044C4383",
+      category = "raid",
+      description = "Doesnt respect SR rules and steals items naughty but in Spanish",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1164472204667408476"
+   },
+   [189] = {
+      name = "Equlizer ",
+      guid = "Player-4467-043A2012",
+      category = "raid",
+      description = "Ran off with 450k pot, El Dorado GDKP truly found El Dorado in Northrend",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1163806304331124736"
+   },
+   [190] = {
+      name = "Gødxd",
+      guid = "Player-4467-0437A605",
+      category = "raid",
+      description = "Trolled raid and rage taunted Anub to wipe a 5050",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1164235286390251540"
+   },
+   [191] = {
+      name = "Kekkonz",
+      guid = "Player-4467-043BA028",
+      category = "raid",
+      description = "He left the raid after the second boss on which he had his 4 SRs. He said ''Bye'' in raid chat and left.",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1164376715531919420"
+   },
+   [192] = {
+      name = "Holysikici",
+      guid = "Player-4467-0434CBCE",
+      category = "raid",
+      description = " join raid GDKP as hpala already kill 6 boss and offline 20 minutes, no coming, and no answer",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1164999602521505884"
+   },
+   [193] = {
+      name = "Goosebumpps",
+      guid = "Player-4467-02C06D5A",
+      category = "raid",
+      description = "Ran away with a 350k pot, very spooky though you should watch the new show ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1165211014053236839"
+   },
+   [194] = {
+      name = "Alekzenxqt",
+      guid = "Player-4467-02A3F0C1",
+      category = "raid",
+      description = " Needed on items to sell rather than required, this is bullshit",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1165648322405617674"
+   },
+   [195] = {
+      name = "Tícktick",
+      guid = "Player-4467-04391E83",
+      category = "raid",
+      description = " Fake dc on the clock, tick tock",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1166309908472402040"
+   },
 }
 
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
+--   [] = {
+--   name = "",
+--   guid = "",
+--   category = "raid",
+--   description = " ",
+--   url = ""
+--},
 --=========================================================================================
