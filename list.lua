@@ -767,11 +767,11 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1126181740705226822",
    },
    [95] = {
-      name = "Tosko",
+      name = "Holydiana ",
       category = "raid",
-      guid = "Player-4467-042B08D7",
-      description = "Joined a run left it and ran off when flare didnt drop.",
-      url = "https://discord.com/channels/635426253414858752/910869036190023680/1126755321206030336",
+      guid = "Player-4467-043B530A",
+      description = "Scamming the Shadowmourne shards with a buyer and reducing the price without telling the raid and not letting them bid",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1166392269604143114",
    },
    [96] = {
       name = "Nightrod",
@@ -837,11 +837,11 @@ t.case_table = {
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1130415179247665232",
    },
    [105] = {
-      name = "Skytraveler",
+      name = "Qinshihuang",
       category = "raid",
-      guid = "Player-4467-04306B7F",
-      description = "Claimed items that were not hard reserved were hard reserved and looted them to himself",
-      url = "https://discord.com/channels/635426253414858752/910869036190023680/1131013171155583037",
+      guid = "Player-4467-043BC2E3",
+      description = "Little ninja of the loot as Master Looter",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1166612156826013707",
    },
    [106] = {
       name = "Xceptíve",
@@ -1562,7 +1562,310 @@ t.case_table = {
       description = " Fake dc on the clock, tick tock",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1166309908472402040"
    },
-   
+   [196] = {
+      name = "Fedepatter",
+      guid = "Player-4467-02BD9DD9",
+      category = "raid",
+      description = " Ninja pull to kill the 50 and being a sub par gamer",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1166670735775895643"
+   },
+   [197] = {
+      name = "Barito",
+      guid = "Player-4467-0445EB43",
+      category = "raid",
+      description = " Doesnt care about the SR sheet just gives to the boys",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1166772658017411165"
+   },
+   [198] = {
+      name = "Mangodash",
+      guid = "Player-4467-036A44C4",
+      category = "raid",
+      description = " Fake dc after SR didnt drop been listed a few times bit crap, im also allergic to mangoes and bad players",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1166820776847097907"
+   },
+   [199] = {
+      name = "Hyttadruid",
+      guid = "Player-4467-04368790",
+      category = "raid",
+      description = " Little leaver multiple times very sad Alexa play titanic flute solo",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1167964978263887982"
+   },
+   [200] = {
+      name = "Wiruwiru",
+      guid = "Player-4467-0432DE47",
+      category = "raid",
+      description = " Stole all the loot from TOGC, hope the trophies and loot was worth it",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1168161060289790012"
+   },
+   [201] = {
+      name = "Nassir",
+      guid = "Player-4467-0291150D",
+      category = "raid",
+      description = " Taking items and kicking players for them, oh and is a kurwa",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1168179915141697637"
+   },
+   [202] = {
+      name = "Dèstrux",
+      guid = "Player-4467-02EF19C5",
+      category = "raid",
+      description = " Stealing loot after having a tantrum over it probably DE'ed his nan",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1168491508870152213"
+   },
+   [203] = {
+      name = "Imbacláss",
+      guid = "Player-4467-0440BF67",
+      category = "raid",
+      description = " Left to leave raid in jeopardy, Blacklist for 100 Alex",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1168528904038916180"
+   },
+   [204] = {
+      name = "Peterjr",
+      guid = "Player-4467-0448A838",
+      category = "raid",
+      description = " Ran away with the full pot, will have to report this to Peter SR probably his dad 340k nice",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1168709829032947802"
+   },
+   [205] = {
+      name = "Henrric",
+      guid = "Player-4467-02E769E2",
+      category = "raid",
+      description = " Scammed the SR sheet and tried to steal the gear mid raid, will have to speak to Don Corleone maybe a lil horse head in the bed ppc",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1168731588985622630"
+   },
+   [206] = {
+      name = "Waeetohawt",
+      guid = "Player-4467-0425E35D",
+      category = "raid",
+      description = " Lost his roll deep into ICC so he fucked off, we too cold now boys",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1169189259459174420"
+   },
+   [207] = {
+      name = "Balako",
+      guid = "Player-4467-03208D41",
+      category = "raid",
+      description = " The man they told you to avoid, needing every item and Disenchanting it, my brother in allah",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1169616808500789319"
+   },
+   [208] = {
+      name = "Mortagodx",
+      guid = "Player-4467-042B39F1",
+      category = "raid",
+      description = " Doesnt pay his employees, who knows what other things Baccuda has done, oh wait hes been blacklisted 6 times yeah ok thats cool",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1170336745628389486"
+   },
+   [209] = {
+      name = "Julux",
+      guid = "Player-4467-0455E090",
+      category = "raid",
+      description = " Quits raids to go to WG, absolute galaxy brained gamer",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1170411479082750103"
+   },
+   [210] = {
+      name = "reyhanpanbe",
+      guid = "Player-4467-0456A2DE",
+      category = "raid",
+      description = " Changes SR mid raid because he didnt get what he wanted, kicks those who oppose him",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1170478870168879245"
+   },
+   [211] = {
+      name = "Cyberhoe",
+      guid = "Player-4467-042F4AB2",
+      category = "raid",
+      description = " Bit of a hoe leaving after not getting his pvp bis, raiding isnt for him should go play a pvp game really not a big fan",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1171495403183669318"
+   },
+   [212] = {
+      name = "Felandor",
+      guid = "Player-4467-033CF29E",
+      category = "raid",
+      description = " Bankstanding at the GE after not winning his SR, should go to OSRS and play in Falador tbh",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1171502485324697610"
+   },
+   [213] = {
+      name = "Isterningen",
+      guid = "Player-4467-0428EDEB",
+      category = "raid",
+      description = " Left the raid after he received his SR,leaving the raid without a member sad",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1171554340851425310"
+   },
+   [214] = {
+      name = "Trusegutten",
+      guid = "Player-4467-0421D8F8",
+      category = "raid",
+      description = " Rolling on items to sell greedy hobbit, send him to mordor",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1171767213112447026"
+   },
+   [215] = {
+      name = "Constantîne",
+      guid = "Player-4467-043AF7C8",
+      category = "raid",
+      description = " Hard ressing all loot on weekly run, stealing a totem then flamed healers for not dpsing, demon emporer",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1172096547777953813"
+   },
+   [216] = {
+      name = "Venoitlove",
+      guid = "Player-4467-04504A4d",
+      category = "raid",
+      description = " Stealing loot from everyone, not very nice is he probably selling the items for 10g each",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1172150406193877075"
+   },
+   [217] = {
+      name = "Ðeathmantle",
+      guid = "Player-4467-02FC489F",
+      category = "raid",
+      description = " Leaving group and then leaving the next week what a player",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1172244774292566058"
+   },
+   [218] = {
+      name = "Tifany",
+      guid = "Player-4467-029EC852",
+      category = "raid",
+      description = " Stealing loot from others for their Offspec, i think they're gonna be alone now",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1172316246851715083"
+   },
+   [219] = {
+      name = "mycus",
+      guid = "Player-4467-0299FE20",
+      category = "raid",
+      description = " because he didnt get loot he said he was banned with a message from 2012 what a lad",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1172594076751769722"
+   },
+   [220] = {
+      name = "Sendeys",
+      guid = "Player-4467-036F334A",
+      category = "raid",
+      description = " Ran away because his SR didnt drop cba with these guys",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1172902129271316553"
+   },
+   [180] = {
+      category = "raid",
+      description = "Going afk mid raid to raid on other character",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1171494971136819270",
+      players = {
+         [0] = {
+            name = "Shoremaa",
+            guid = "Player-4467-0441EBC0",
+            faction = "alliance",
+         },
+         [1] = {
+            name = "Shorema",
+            guid = "Player-4467-044093A9",
+            faction = "alliance",
+         },
+      
+      }
+   },
+   [222] = {
+      category = "raid",
+      description = "Running away after their SR drops at BQL without hope of replacing",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1166857288389247016",
+      players = {
+         [0] = {
+            name = "Klixzd",
+            guid = "Player-4467-042C2EAE",
+            faction = "alliance",
+         },
+         [1] = {
+            name = "Aqual",
+            guid = "Player-4467-042CBED7",
+            faction = "alliance",
+         },
+      }
+   },
+   [223] = {
+      category = "raid",
+      description = "Changing SRs of members mid raid because they wanted the items instead without telling the members to lock them out",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1175910537406709762",
+      players = {
+         [0] = {
+            name = "Meloody",
+            guid = "Player-4467-04427C07",
+            faction = "alliance",
+         },
+         [1] = {
+            name = "Khandaei",
+            guid = "Player-4467-04583223",
+            faction = "alliance",
+         },
+      }
+   },
+   [224] = {
+      name = "Pfalz",
+      guid = "Player-4467-036F334A",
+      category = "raid",
+      description = " Left after no sr drop then went to grief the raid afterwards",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1173203080611901481"
+   },
+   [225] = {
+      name = "Xfun",
+      guid = "Player-4467-03C69435",
+      category = "raid",
+      description = " Started selling loot mid raid because why the fuck not, doesnt stick to his loot rules",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1174007210876076144"
+   },
+   [226] = {
+      name = "Filetón",
+      guid = "Player-4467-0442A075",
+      category = "raid",
+      description = " Needing on items in dungeon for vendor",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1174425842714165278"
+   },
+   [227] = {
+      name = "Bircháll",
+      guid = "Player-4467-043BE0CF",
+      category = "raid",
+      description = "Rolled out Oathbinder, and gave it to a friend",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1175005167305900063"
+   },
+   [228] = {
+      name = "Pallyxqt",
+      guid = "Player-4467-044B13E1",
+      category = "raid",
+      description = " Leaving raid randomly, griefing raid during raid bosses.",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1175400453664673804"
+   },
+   [229] = {
+      name = "Delusio",
+      guid = "Player-4467-042BC24C",
+      category = "raid",
+      description = " Ninjaed items to sell back to the raid",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1175787643548749937"
+   },
+   [230] = {
+      name = "Wonderhero",
+      guid = "Player-4467-03584352",
+      category = "raid",
+      description = "Changing his SR loot to items that have already dropped to benefit his friends, bryntoll warlock anyone",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1176377622360510494"
+   },
+   [231] = {
+      name = "Pallyxqt",
+      guid = "Player-4467-044B13E1",
+      category = "raid",
+      description = " Leaving raid randomly, griefing raid during raid bosses, for the second time in a week",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1176608896534708316"
+   },
+   [232] = {
+      name = "Darkyzlól",
+      guid = "Player-4467-03AF5FBA",
+      category = "raid",
+      description = " Leaving raid high and dry at saurfang gang",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1176754726222712913"
+   },
+   [233] = {
+      name = "Vialx",
+      guid = "Player-4467–043C71D3",
+      category = "raid",
+      description = " Stealing loot from winner and gaslighting them as their class is a Healer class",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1176826346123563008"
+   },
+   [234] = {
+      name = "Clementìne",
+      guid = "Player-4467-03134EB2",
+      category = "raid",
+      description = " Keeps on needing things, wont be getting anything in his stocking this christmas",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1178482673182851174"
+   },
 }
 
 --=========================================================================================
