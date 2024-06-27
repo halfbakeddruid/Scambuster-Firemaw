@@ -1866,6 +1866,352 @@ t.case_table = {
       description = " Keeps on needing things, wont be getting anything in his stocking this christmas",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1178482673182851174"
    },
+   [235] = {
+      name = "Hamppadk",
+      guid = "Player-4467-036A0B64",
+      category = "raid",
+      description = "Entitled player needing on every item in dungeons because he was the tank",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1178897033453645878"
+   },
+   [236] = {
+      name = "Shadowspree",
+      guid = "Player-4467-041973FC",
+      category = "raid",
+      description = "Left after no SR drop",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1179233948593815592"
+   },
+   [237] = {
+      name = "Qzdruid",
+      guid = "Player-4467-043F9D91",
+      category = "raid",
+      description = " removed from raid while forming and started encounter and casted hearthstone to fuck the 50 attempt",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1179422662401998848"
+   },
+   [238] = {
+      name = "Foloki",
+      guid = "Player-4467-03B74893",
+      category = "raid",
+      description = " Ninja shit for his mate",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1179738630374293544"
+   },
+   [239] = {
+      name = "Madsam",
+      guid = "Player-4467-03ACEA87",
+      category = "raid",
+      description = " Ninja shit for his mate",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1179738630374293544"
+   },
+   [240] = {
+      name = "Drmonstret",
+      guid = "Player-4467-044B0110",
+      category = "raid",
+      description = " Fake DC's to ruin the raid after wiping the raid also had 4sr on the boss",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1181518520878633022"
+   },
+   [241] = {
+      name = "Sealmomen",
+      guid = "Player-4467-044E0C4F",
+      category = "raid",
+      description = " Left after SR didnt drop",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1181632283623559298"
+   },
+   [242] = {
+      name = "Dephonic",
+      guid = "Player-4467-0292666E",
+      category = "raid",
+      description = " Another SR leave enjoyer",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1182109121856679966"
+   },
+   [243] = {
+      name = "Spookylol",
+      guid = "Player-4467-04593B38",
+      category = "raid",
+      description = " SR Leaving enjoyer sad man syndrome",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1183166336084496524"
+   },
+   [244] = {
+      name = "Armágeddon",
+      guid = "Player-4467-03286B3B",
+      category = "raid",
+      description = " If i could stay awake just to see your raid leadin' give your SRs away while you are sleepin, bad leader didnt bother with the SR list",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1184051711036379186"
+   },
+   [245] = {
+      name = "Sectafreezy",
+      guid = "Player-4467-02C49D78",
+      category = "raid",
+      description = " Leave after no Drop, King",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1184564652076716034"
+   },
+   [246] = {
+      name = "Jfkjr",
+      guid = "Player-4467-04320337",
+      category = "raid",
+      description = " Took advantage of loot bugging needed items then fake dc",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1184885109648793630"
+   },
+   [247] = {
+      name = "Zycol",
+      guid = "Player-4467-044C1E5E",
+      category = "raid",
+      description = " Leaving after no item same as every other listing it feels like",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1185339958379167804"
+   },
+   [248] = {
+      name = "Panthêon",
+      guid = "Player-4467-04531C3D",
+      category = "raid",
+      description = " no SR drop Leaver",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1185601287702708286"
+   },
+   [249] = {
+      name = "Secretpriest",
+      guid = "Player-4467-02C03D75",
+      category = "raid",
+      description = " Fake dc SR leaver, another one",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1185715256027271169"
+   },
+   [250] = {
+      name = "Cyberhoe",
+      guid = "Player-4467-042F4AB2
+",
+      category = "raid",
+      description = " No SR Drop, no internet connection apparently",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1186072711387168829"
+   },
+   [251] = {
+      name = "Âvøîd",
+      guid = "Player-4467-04708A39",
+      category = "raid",
+      description = " Someone named avoid leaving after his SR didnt drop, im so fucking shocked",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1186340522244198440"
+   },
+   [252] = {
+      name = "Miraluna",
+      guid = "Player-4467-045F3D36",
+      category = "raid",
+      description = " SR Drop leaver again",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1186428494251577466"
+   },
+   [253] = {
+      name = "Disord",
+      guid = "Player-4467-02C9C492",
+      category = "raid",
+      description = " Trying to sell weekly loot, gamer",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1187177265499488308"
+   },
+   [254] = {
+      name = "Ñemesis",
+      guid = "Player-4467-04470599",
+      category = "raid",
+      description = " SR no drop enjoyer",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1187369250562789486"
+   },   
+   [255] = {
+      name = "Draeneayaya",
+      guid = "Player-4467-045CB34E",
+      category = "raid",
+      description = " SR no drop enjoyer",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1189612145885855836"
+   },
+   [256] = {
+      name = "Sinbãd",
+      guid = "Player-4467-036C5B7C",
+      category = "raid",
+      description = " Just a lil ninja loot for the specialisations he couldnt use",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1190212636323876968"
+   },
+   [257] = {
+      name = "Exterm",
+      guid = "Player-4467-04350894",
+      category = "raid",
+      description = " Bad loot rules, leading to ninja'ing items ofc",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1191139439594979369"
+   },
+   [258] = {
+      name = "poyken",
+      guid = "Player-4467-0089DDE5",
+      category = "raid",
+      description = "SR no drop enjoyer ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1192004759385821195"
+   },
+   [259] = {
+      name = "Trøyzz",
+      guid = "Player-4467-043EDFF6",
+      category = "raid",
+      description = "Yoinked the loot in a GDKP didnt give any cuts ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1192084380638793728"
+   },
+   [260] = {
+      name = "Yosiah",
+      guid = "Player-4467-02E49B7B",
+      category = "raid",
+      description = "Griefed the raid after winning two neck items and not helping the guild out wiped many bosses etc",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1192234913743777933"
+   },
+   [261] = {
+      name = "btrxd",
+      guid = "Player-4467-02FFADFD",
+      category = "raid",
+      description = "Griefed raid by leaving after making mistakes and wiping the group many times ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1192990355503730839"
+   },
+   [262] = {
+      name = "Valus",
+      guid = "Player-4467-0370125A",
+      category = "raid",
+      description = "Purposefully wiping the raid ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1192991624159035422"
+   },
+   [263] = {
+      name = "Impix",
+      aliases = "Lizoin"
+      guid = "Player-4467-031CE4D5",
+      category = "raid",
+      description = "Stealing loot he didnt win as ML ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1193540648419205261"
+   },
+   [264] = {
+      name = "Pornh",
+      guid = "Player-4467-03ABDD45",
+      category = "raid",
+      description = "SR no drop enjoyer ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1193693445647253555"
+   },
+   [265] = {
+      name = "Nephyrá",
+      guid = "Player-4467-02EF77EC",
+      category = "raid",
+      description = "Tactical DC to leave raid in the lurch ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1194784063660228689"
+   },
+   [266] = {
+      name = "Kusari",
+      guid = "Player-4467-0453D4EF",
+      category = "raid",
+      description = "Taking all the loot because he can",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1195715375409672296"
+   },
+   [267] = {
+      name = "Sharpine",
+      guid = "Player-4467-03AD34CC",
+      category = "raid",
+      description = "Naked buyer, left without spending gold ion a GDKP",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1196199224954593441"
+   },
+   [268] = {
+      name = "Axullia",
+      guid = "Player-4467-04728FD9",
+      category = "raid",
+      description = "No drop SR enjoyer ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1203831642872090627"
+   },
+   [269] = {
+      name = "Auerbach",
+      guid = "Player-4467-02DA8953",
+      category = "raid",
+      description = "Got a free shadowmourne in a GDKP because he dc'ed to not pay ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1206012555529555978"
+   },
+   [270] = {
+      name = "Brutalman",
+      guid = "Player-4467-040DE337",
+      category = "raid",
+      description = "Changes loot rules mid raid to get items ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1206639918453891114"
+   },
+   [271] = {
+      name = "Hiddenwings",
+      guid = "Player-4467-04454DA0",
+      category = "raid",
+      description = "Ninja all the items and leave ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1207062986812817428"
+   },
+   [272] = {
+      name = "Squarletx",
+      guid = "Player-4467-037B229B",
+      category = "raid",
+      description = "SR No drop enjoyer",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1207253923426205726"
+   },
+   [273] = {
+      name = "Ghostroguee",
+      guid = "Player-4467-044E2319",
+      category = "raid",
+      description = "Left after his 4SR didnt drop ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1208215981516787712"
+   },
+   [274] = {
+      name = "Fyyasin",
+      guid = "Player-4467-02C4754E",
+      category = "raid",
+      description = "allowed a change of SR by his buyer, while not stating it before the raid started that it can occur",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1225073205862203492"
+   },
+   [275] = {
+      name = "brel",
+      guid = "Player-4467-047C1EE1",
+      category = "raid",
+      description = "Two friends decided to leave a raid half an hour in with some lame ass excuses.",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1237039680592150600"
+   },
+   [276] = {
+      name = "Blaixmer",
+      guid = "Player-4467-02C61032",
+      category = "raid",
+      description = "Left the raid after losing his rolls ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1241725167705653308"
+   },
+   [277] = {
+      name = "Slâpz",
+      guid = "Player-4467-048CF5D0",
+      category = "raid",
+      description = "ninja looted caster trinket as a tank ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1243101326238552075"
+   },
+   [278] = {
+      name = "Niuprime",
+      guid = "Player-4467-04878E8A",
+      category = "raid",
+      description = "Stealing items ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1243551081171124336"
+   },
+   [279] = {
+      name = "Nobleponti",
+      guid = "Player-4467-04892B71",
+      category = "trade",
+      description = "Left group and went offline after I traded him the mats for Elementium Deathplate",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1245223669815574628"
+   },
+   [280] = {
+      name = "Tuove",
+      guid = "Player-4467-047320F2",
+      category = "raid",
+      description = "Stealing items he doesnt need, ninja baybeee",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1249789661522432012"
+   },
+   [281] = {
+      name = "Wyks",
+      guid = "Player-4467-04755A9E",
+      category = "raid",
+      description = "Stealing items he doesnt need, ninja baybeee ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1252195450073776140"
+   },
+   [282] = {
+      name = "Hekttorr",
+      guid = "4467-0396B91B",
+      category = "raid",
+      description = "Threatening to kick players who shared his SR ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1254410139369213982"
+   },
+   [283] = {
+      name = "Ymoonshade",
+      guid = "Player-4467-047F24D7",
+      category = "raid",
+      description = "Deducted player for something the raid didnt do, then said he didnt pay for an item he couldnt because he had his cut taken but the raid leader took 300k bonus from the pot ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1255600438120550411"
+   },
+   
 }
 
 --=========================================================================================
