@@ -2064,7 +2064,7 @@ t.case_table = {
    },
    [263] = {
       name = "Impix",
-      aliases = "Lizoin"
+      aliases = "Lizoin",
       guid = "Player-4467-031CE4D5",
       category = "raid",
       description = "Stealing loot he didnt win as ML ",
