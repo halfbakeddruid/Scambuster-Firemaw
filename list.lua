@@ -1973,8 +1973,7 @@ t.case_table = {
    },
    [250] = {
       name = "Cyberhoe",
-      guid = "Player-4467-042F4AB2
-",
+      guid = "Player-4467-042F4AB2",
       category = "raid",
       description = " No SR Drop, no internet connection apparently",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1186072711387168829"
@@ -2199,7 +2198,7 @@ t.case_table = {
    },
    [282] = {
       name = "Hekttorr",
-      guid = "4467-0396B91B",
+      guid = "Player-4467-0396B91B",
       category = "raid",
       description = "Threatening to kick players who shared his SR ",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1254410139369213982"
