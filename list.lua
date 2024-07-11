@@ -2210,7 +2210,62 @@ t.case_table = {
       description = "Deducted player for something the raid didnt do, then said he didnt pay for an item he couldnt because he had his cut taken but the raid leader took 300k bonus from the pot ",
       url = "https://discord.com/channels/635426253414858752/910869036190023680/1255600438120550411"
    },
-   
+   [284] = {
+      name = "Moonshadexd",
+      guid = "Player-4467-047F250E",
+      category = "raid",
+      description = "Deducted player for something the raid didnt do, then said he didnt pay for an item he couldnt because he had his cut taken but the raid leader took 300k bonus from the pot ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1255600438120550411"
+   },
+   [285] = {
+      name = "Moonshadeyx",
+      guid = "Player-4467-047F24F3",
+      category = "raid",
+      description = "Deducted player for something the raid didnt do, then said he didnt pay for an item he couldnt because he had his cut taken but the raid leader took 300k bonus from the pot ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1255600438120550411"
+   },
+   [286] = {
+      name = "Bmoonshade",
+      guid = "Player-4467-048E2141",
+      category = "raid",
+      description = "Deducted player for something the raid didnt do, then said he didnt pay for an item he couldnt because he had his cut taken but the raid leader took 300k bonus from the pot ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1255600438120550411"
+   },
+   [287] = {
+      name = "Dubuwatank",
+      guid = "Player-4467-049E5820",
+      category = "raid",
+      description = "Stole Tier items after losing the roll twice and fudged the award addon to cover himself, naughty",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1257053459413205142"
+   },
+   [288] = {
+      name = "Qvïst",
+      guid = "Player-4467-04975537",
+      category = "raid",
+      description = "he had sr on magmaw and maloriak, left raid after his sr didnt drop, it was 5/6hc raid ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1257060164893413407"
+   },
+   [289] = {
+      name = "Graysky",
+      guid = "Player-4467-048F74D3",
+      category = "raid",
+      description = "Gives loots to friends and doesnt respect world of rollcraft ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1257089944023859241"
+   },
+   [290] = {
+      name = "Blacknogging",
+      guid = "Player-4467-0286A6DB",
+      category = "raid",
+      description = "Leaves after he doesnt win rolls, his name is probably racist too, scandi hype ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1257451578789724202"
+   },
+   [291] = {
+      name = "Divinehimars",
+      guid = "Player-4467-047FDAF9",
+      category = "raid",
+      description = "Leaves raid after a wipe and getting his SR items, yooooo he did it team ",
+      url = "https://discord.com/channels/635426253414858752/910869036190023680/1259646139163213834"
+   },
 }
 
 --=========================================================================================
